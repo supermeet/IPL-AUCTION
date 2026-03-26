@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "basePrice": 20000000,
+    "points": 950,
+    "stats": "IPL Runs: 7000+, Average: 37"
+  },
+  {
+    "id": "2",
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "basePrice": 20000000,
+    "points": 920,
+    "stats": "IPL Runs: 6000+, Average: 31"
+  },
+  {
+    "id": "3",
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "basePrice": 18000000,
+    "points": 900,
+    "stats": "IPL Wickets: 150+, Economy: 7.2"
+  },
+  {
+    "id": "4",
+    "name": "Rashid Khan",
+    "role": "All-rounder",
+    "basePrice": 17000000,
+    "points": 880,
+    "stats": "IPL Wickets: 100+, Economy: 6.5"
+  },
+  {
+    "id": "5",
+    "name": "KL Rahul",
+    "role": "Batsman",
+    "basePrice": 16000000,
+    "points": 850,
+    "stats": "IPL Runs: 4000+, Average: 45"
+  },
+  {
+    "id": "6",
+    "name": "Suryakumar Yadav",
+    "role": "Batsman",
+    "basePrice": 15000000,
+    "points": 830,
+    "stats": "IPL Runs: 3000+, Strike Rate: 135"
+  },
+  {
+    "id": "7",
+    "name": "Mohammed Shami",
+    "role": "Bowler",
+    "basePrice": 14000000,
+    "points": 810,
+    "stats": "IPL Wickets: 100+, Economy: 8.5"
+  },
+  {
+    "id": "8",
+    "name": "Hardik Pandya",
+    "role": "All-rounder",
+    "basePrice": 18000000,
+    "points": 870,
+    "stats": "IPL Runs: 2000+, Wickets: 50+"
+  },
+  {
+    "id": "9",
+    "name": "Ravindra Jadeja",
+    "role": "All-rounder",
+    "basePrice": 16000000,
+    "points": 860,
+    "stats": "IPL Runs: 2500+, Wickets: 130+"
+  },
+  {
+    "id": "10",
+    "name": "Shikhar Dhawan",
+    "role": "Batsman",
+    "basePrice": 13000000,
+    "points": 780,
+    "stats": "IPL Runs: 6000+, Average: 35"
+  },
+  {
+    "id": "11",
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "basePrice": 12000000,
+    "points": 770,
+    "stats": "IPL Wickets: 180+, Economy: 7.8"
+  },
+  {
+    "id": "12",
+    "name": "Jos Buttler",
+    "role": "Batsman",
+    "basePrice": 15000000,
+    "points": 840,
+    "stats": "IPL Runs: 3000+, Strike Rate: 150"
+  },
+  {
+    "id": "13",
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "basePrice": 14000000,
+    "points": 800,
+    "stats": "IPL Wickets: 100+, Economy: 8.2"
+  },
+  {
+    "id": "14",
+    "name": "Andre Russell",
+    "role": "All-rounder",
+    "basePrice": 17000000,
+    "points": 890,
+    "stats": "IPL Runs: 2000+, Wickets: 70+"
+  },
+  {
+    "id": "15",
+    "name": "David Warner",
+    "role": "Batsman",
+    "basePrice": 16000000,
+    "points": 860,
+    "stats": "IPL Runs: 6000+, Average: 42"
+  },
+  {
+    "id": "16",
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "basePrice": 13000000,
+    "points": 790,
+    "stats": "IPL Wickets: 100+, Economy: 8.3"
+  },
+  {
+    "id": "17",
+    "name": "Glenn Maxwell",
+    "role": "All-rounder",
+    "basePrice": 14000000,
+    "points": 820,
+    "stats": "IPL Runs: 2500+, Wickets: 30+"
+  },
+  {
+    "id": "18",
+    "name": "Quinton de Kock",
+    "role": "Batsman",
+    "basePrice": 12000000,
+    "points": 760,
+    "stats": "IPL Runs: 2500+, Strike Rate: 130"
+  },
+  {
+    "id": "19",
+    "name": "Pat Cummins",
+    "role": "All-rounder",
+    "basePrice": 15000000,
+    "points": 830,
+    "stats": "IPL Wickets: 50+, Economy: 7.9"
+  },
+  {
+    "id": "20",
+    "name": "Rishabh Pant",
+    "role": "Batsman",
+    "basePrice": 17000000,
+    "points": 880,
+    "stats": "IPL Runs: 3000+, Strike Rate: 147"
+  },
+  {
+    "id": "21",
+    "name": "Ishan Kishan",
+    "role": "Batsman",
+    "basePrice": 11000000,
+    "points": 740,
+    "stats": "IPL Runs: 2000+, Strike Rate: 135"
+  },
+  {
+    "id": "22",
+    "name": "Rahul Tewatia",
+    "role": "All-rounder",
+    "basePrice": 8000000,
+    "points": 680,
+    "stats": "IPL Runs: 1000+, Wickets: 40+"
+  },
+  {
+    "id": "23",
+    "name": "Deepak Chahar",
+    "role": "Bowler",
+    "basePrice": 10000000,
+    "points": 720,
+    "stats": "IPL Wickets: 60+, Economy: 8.1"
+  },
+  {
+    "id": "24",
+    "name": "Axar Patel",
+    "role": "All-rounder",
+    "basePrice": 10000000,
+    "points": 730,
+    "stats": "IPL Runs: 1000+, Wickets: 80+"
+  },
+  {
+    "id": "25",
+    "name": "Prithvi Shaw",
+    "role": "Batsman",
+    "basePrice": 9000000,
+    "points": 700,
+    "stats": "IPL Runs: 1500+, Strike Rate: 145"
+  },
+  {
+    "id": "26",
+    "name": "Washington Sundar",
+    "role": "All-rounder",
+    "basePrice": 9000000,
+    "points": 710,
+    "stats": "IPL Runs: 800+, Wickets: 50+"
+  },
+  {
+    "id": "27",
+    "name": "Shardul Thakur",
+    "role": "All-rounder",
+    "basePrice": 11000000,
+    "points": 750,
+    "stats": "IPL Runs: 600+, Wickets: 70+"
+  },
+  {
+    "id": "28",
+    "name": "Shreyas Iyer",
+    "role": "Batsman",
+    "basePrice": 13000000,
+    "points": 780,
+    "stats": "IPL Runs: 2500+, Average: 31"
+  },
+  {
+    "id": "29",
+    "name": "Marcus Stoinis",
+    "role": "All-rounder",
+    "basePrice": 10000000,
+    "points": 720,
+    "stats": "IPL Runs: 1500+, Wickets: 30+"
+  },
+  {
+    "id": "30",
+    "name": "Bhuvneshwar Kumar",
+    "role": "Bowler",
+    "basePrice": 11000000,
+    "points": 740,
+    "stats": "IPL Wickets: 150+, Economy: 7.5"
+  },
+  {
+    "id": "31",
+    "name": "Devdutt Padikkal",
+    "role": "Batsman",
+    "basePrice": 8000000,
+    "points": 670,
+    "stats": "IPL Runs: 1300+, Average: 35"
+  },
+  {
+    "id": "32",
+    "name": "Ruturaj Gaikwad",
+    "role": "Batsman",
+    "basePrice": 10000000,
+    "points": 730,
+    "stats": "IPL Runs: 2000+, Average: 38"
+  },
+  {
+    "id": "33",
+    "name": "Mohammed Siraj",
+    "role": "Bowler",
+    "basePrice": 9000000,
+    "points": 700,
+    "stats": "IPL Wickets: 50+, Economy: 8.7"
+  },
+  {
+    "id": "34",
+    "name": "Krunal Pandya",
+    "role": "All-rounder",
+    "basePrice": 9000000,
+    "points": 690,
+    "stats": "IPL Runs: 1500+, Wickets: 50+"
+  },
+  {
+    "id": "35",
+    "name": "Sanju Samson",
+    "role": "Batsman",
+    "basePrice": 12000000,
+    "points": 760,
+    "stats": "IPL Runs: 3000+, Average: 28"
+  },
+  {
+    "id": "36",
+    "name": "Faf du Plessis",
+    "role": "Batsman",
+    "basePrice": 11000000,
+    "points": 750,
+    "stats": "IPL Runs: 2500+, Average: 35"
+  },
+  {
+    "id": "37",
+    "name": "Sunil Narine",
+    "role": "All-rounder",
+    "basePrice": 10000000,
+    "points": 720,
+    "stats": "IPL Runs: 1000+, Wickets: 150+"
+  },
+  {
+    "id": "38",
+    "name": "Nicholas Pooran",
+    "role": "Batsman",
+    "basePrice": 8000000,
+    "points": 680,
+    "stats": "IPL Runs: 1000+, Strike Rate: 140"
+  },
+  {
+    "id": "39",
+    "name": "Avesh Khan",
+    "role": "Bowler",
+    "basePrice": 7000000,
+    "points": 650,
+    "stats": "IPL Wickets: 40+, Economy: 8.9"
+  },
+  {
+    "id": "40",
+    "name": "Venkatesh Iyer",
+    "role": "All-rounder",
+    "basePrice": 9000000,
+    "points": 700,
+    "stats": "IPL Runs: 800+, Wickets: 10+"
+  }
+]
