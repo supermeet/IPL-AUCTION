@@ -111,11 +111,11 @@
   },
   {
     "id": 11,
-    "name": "Andre Russel",
+    "name": "Andre Russell",
     "role": "All-rounder",
     "basePrice": 200,
     "points": 936,
-    "photo": "/players/andre-russel.jpg",
+    "photo": "/players/andre-russell.jpg",
     "sold": false,
     "soldTo": null,
     "soldPrice": null
@@ -574,7 +574,7 @@
   {
     "id": 53,
     "name": "Mitchell Starc",
-    "role": "Wicket-keeper",
+    "role": "Bowler",
     "basePrice": 150,
     "points": 875,
     "photo": "/players/mitchell-starc.jpg",
@@ -1046,11 +1046,11 @@
   },
   {
     "id": 96,
-    "name": "Moen Ali",
+    "name": "Moeen Ali",
     "role": "Bowler",
     "basePrice": 100,
     "points": 798,
-    "photo": "/players/moen-ali.jpg",
+    "photo": "/players/moeen-ali.jpg",
     "sold": false,
     "soldTo": null,
     "soldPrice": null
@@ -1201,7 +1201,7 @@
   {
     "id": 110,
     "name": "Rahul Tewatia",
-    "role": "Batsman",
+    "role": "All-rounder",
     "basePrice": 100,
     "points": 786,
     "photo": "/players/rahul-tewatia.jpg",
