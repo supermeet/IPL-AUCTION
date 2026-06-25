@@ -1,0 +1,19 @@
+<svg width="1728" height="914" viewBox="0 0 1728 914" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_3_16)">
+<rect width="1728" height="914" fill="black"/>
+<rect width="1728" height="969" fill="url(#pattern0_3_16)"/>
+<rect width="1728" height="920" fill="url(#paint0_linear_3_16)"/>
+</g>
+<defs>
+<pattern id="pattern0_3_16" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_3_16" transform="scale(0.0015625 0.00278638)"/>
+</pattern>
+<linearGradient id="paint0_linear_3_16" x1="864" y1="9.84408e-07" x2="864" y2="866.5" gradientUnits="userSpaceOnUse">
+<stop offset="0.605962" stop-opacity="0"/>
+<stop offset="1"/>
+</linearGradient>
+<clipPath id="clip0_3_16">
+<rect width="1728" height="914" fill="white"/>
+</clipPath>
+</defs>
+</svg>

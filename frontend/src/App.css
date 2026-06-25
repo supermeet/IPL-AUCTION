@@ -195,17 +195,7 @@ input:focus, select:focus {
   background: #f5f5f5;
 }
 
-.rank-1 {
-  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%) !important;
-}
-
-.rank-2 {
-  background: linear-gradient(135deg, #c0c0c0 0%, #e0e0e0 100%) !important;
-}
-
-.rank-3 {
-  background: linear-gradient(135deg, #cd7f32 0%, #e8a87c 100%) !important;
-}
+/* Rank classes removed - results now sorted by budget */
 
 .form-group {
   margin-bottom: 1.5rem;
